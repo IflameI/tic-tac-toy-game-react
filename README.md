@@ -16,3 +16,6 @@ Typescript
 Axios
 
 Socket IO
+
+
+![Image of project](https://github.com/IflameI/tic-tac-toy-game-react/blob/main/Screenshot_2.png)
